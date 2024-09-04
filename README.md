@@ -88,11 +88,6 @@ Before setting up the Hospital Management System, ensure the following software 
 - **Prescription Clarity:** Digital prescriptions improve readability and reduce misunderstanding.
 - **Data Durability:** Electronic records mitigate the risk of data loss associated with physical documents.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 ## Snapshots
 ![image](https://github.com/user-attachments/assets/beaa4baa-4f27-4240-bab1-3ff9ba0b349c)
