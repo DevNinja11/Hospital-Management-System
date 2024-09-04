@@ -1,91 +1,104 @@
-# _Medical_
-Medical hospital management system project is developed by 'JAVA' at Backend and by using SpringMVC and JDBC , SERVLET frameworks, Bootstrap for UI, MySQL database for data storage and Maven as project management tool.
 # Hospital Management System
-## Description-
-  > In this Project we aim to solve the traditional issues of hospital management. The existing system provided paper based solution for keeping records of patients and hospital staff, but it gives overload to Doctor,and Administrator.  The main issues were inappropriate data keeping, time wastage in storage, retrieval also patients were unable to understand the prescription etc. These issues are solved by providing a separate user account for doctors and other user. Keeping each patient’s data separate and track previous visits in a single click. 
-   
-   This project uses MYSQL as backend and is developed in Java so it provides features such as platform independence, high performance and security. It is a web application which mainly uses SpringMVC and JDBC and Servlets frameworks. 
-   
-   It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides  of prescription. Thus, reducing need to manually write  and  sign  by doctor.  <br>
 
-   ## Technologies Used-
-  ![Technologies used](https://github.com/Thenaveen-hub/Medical/assets/140473308/4fe1cc80-ee9c-4b78-ae23-fa3c9745f869)
+## Project Overview
+
+I have designed the Hospital Management System (HMS) project to address the traditional challenges faced in hospital management by transitioning from a paper-based to a digital solution. The existing manual systems often led to issues such as inefficient data management, time wastage in data storage and retrieval, and difficulties in understanding prescriptions. This project aims to streamline hospital operations by providing a comprehensive web-based application that enhances data accuracy, improves accessibility, and facilitates better management of patient records.
+![image](https://github.com/user-attachments/assets/18a9ece3-5a88-4e20-af63-dddcc6b646da)
 
 
+**Key Features:**
+- Digital management of patient and hospital staff records.
+- Separate user accounts for doctors and administrators.
+- Efficient data storage and retrieval with minimal time wastage.
+- Easy prescription management, reducing manual writing and signing by doctors.
 
-### 1. Front end Technologies:
-  - HTML
-  - CSS
-  - Bootstrap
-  - JavaScript
-  
-### 2. Back end Technologies:
-  - SpringMVC 
-  - JDBC
-  - SERVLETS
-  
-### 3. Database:
-  - MySQL
-  
-### 4. Project management tool:
-  - Maven
-  
-### 5. Webserver:
-  - Apache Tomcat
+## Tech Stack
 
-## Steps to configure this HMS web-application on your system:
+**Front End Technologies:**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-1. To import this project to your system, you need to first install below softwares: 
-   - Eclipse for Java EE Developers and Tomcat server. You can refer this video: https://youtu.be/9iHKCnxUWqQ
-   - MySQL Workbench. You can refer this video: https://youtu.be/OM4aZJW_Ojs
+**Back End Technologies:**
+- Spring MVC
+- JDBC
+- Servlets
 
-2. Then get the code from this GitHub repository on your system. You can clone this repository or download as zip file.
+**Database:**
+- MySQL
 
-3. Choose 'import existing maven project' option in eclipse. 
-<br> You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
+**Project Management Tool:**
+- Maven
 
-4. You can then run this web-application on your Tomcat server --version 9.0 preferred.
-   
-5. Run The "_index1.jsp_"  File and see the magic
-  
-  > ## Issues that proposed system overcomes-
-  - It is digital system rather than paper based.
-  - Inappropriate data keeping .
-  - Time wastage in data storage and retrieval.
-  - Human error possibility in maintainance.
-  - Patient's were unable to understand prescriptions due to handwriting issue.
-  - Durability issues (data may lost if prescriptions goes missing).
+**Web Server:**
+- Apache Tomcat
+
+## Getting Started
+
+### Prerequisites
+
+Before setting up the Hospital Management System, ensure the following software is installed on your system:
+
+1. **Eclipse IDE for Java EE Developers** and **Apache Tomcat Server**
+   - Follow this [video tutorial](https://youtu.be/9iHKCnxUWqQ) for installation instructions.
+
+2. **MySQL Workbench**
+   - Follow this [video tutorial](https://youtu.be/OM4aZJW_Ojs) for installation instructions.
+
+### Setup Instructions
+
+1. **Clone or Download the Repository:**
+
+   Get the project code from the GitHub repository. You can either clone it or download it as a ZIP file.
+
+   ```bash
+   git clone https://github.com/your-repository/hospital-management-system.git
+   ```
+
+2. **Import the Project into Eclipse:**
+
+   - Open Eclipse and select **File** > **Import**.
+   - Choose **Existing Maven Projects** and navigate to the directory where you cloned/downloaded the project.
+   - Follow the prompts to import the project into Eclipse.
+
+3. **Configure the Database:**
+
+   - Ensure MySQL is running and create a database for the HMS project.
+   - Update the database configuration in the `application.properties` or `context.xml` file of your project to match your MySQL setup.
+
+4. **Run the Application:**
+
+   - Start the Apache Tomcat server.
+   - Deploy the project on Tomcat.
+   - Access the application by navigating to `http://localhost:8080/hospital-management-system/index1.jsp` in your web browser.
+
+## Features and Benefits
+
+- **Digital System:** Transition from a paper-based system to a digital solution.
+- **Improved Data Management:** Enhanced accuracy and efficiency in data storage and retrieval.
+- **Reduced Manual Efforts:** Automated prescription management to minimize manual errors.
+- **User-Friendly Interface:** Simplified processes for adding and removing employees and managing patient records.
+
+## Issues Addressed
+
+- **Inappropriate Data Keeping:** Digital storage ensures better data accuracy and retrieval.
+- **Time Wastage:** Streamlined data management reduces time spent on manual processes.
+- **Human Error:** Automated systems decrease the likelihood of manual errors in record-keeping.
+- **Prescription Clarity:** Digital prescriptions improve readability and reduce misunderstanding.
+- **Data Durability:** Electronic records mitigate the risk of data loss associated with physical documents.
 
 
-## Snapshots-
+## License
 
-**1. Homepage**
+This project is licensed under the [MIT License](LICENSE).
 
-![Home Page](https://github.com/Thenaveen-hub/Medical/assets/140473308/2c0676ab-b466-4b89-bf6c-a7d230985ade)
-
-**2. User Login**
-
-![Screenshot (90)](https://github.com/Thenaveen-hub/Medical/assets/140473308/68c87eb2-f806-44fb-a0c4-794aa8365da7)
-
-**3. About us**
-
-![about](https://github.com/Thenaveen-hub/Medical/assets/140473308/b8101938-ce29-4529-8962-2b0a7e57d023)
-
-**4. User Homepage**
-
-![Screenshot (91)](https://github.com/Thenaveen-hub/Medical/assets/140473308/bb24e7b5-2fb9-4321-8a43-5579ebb50ec1)
-
-**5. Appointment page**
-
-![Appointment](https://github.com/Thenaveen-hub/Medical/assets/140473308/7d589a40-d968-48b9-995d-ec5c0d421ee7)
-
-**6. Previous Appointment**
-
-![prevAppoint](https://github.com/Thenaveen-hub/Medical/assets/140473308/fba115fe-1df0-4d26-83f0-1816f20538c3)
-
-**7. patient Details page**
-
-![Screenshot (96)](https://github.com/Thenaveen-hub/Medical/assets/140473308/461cd4be-60fb-482a-9e5a-cc33112de5dd)
-
-_IF Any Queries Mail me ! @ hellonaveen21@gmail.com_
-### Thank You !
+---
+## Snapshots
+![image](https://github.com/user-attachments/assets/beaa4baa-4f27-4240-bab1-3ff9ba0b349c)
+![image](https://github.com/user-attachments/assets/4ce23817-5309-4bcd-8b7a-348ac99fd274)
+![image](https://github.com/user-attachments/assets/803e9b4d-7ee7-4b3b-96b6-73eaa94c7ea5)
+![image](https://github.com/user-attachments/assets/82ec1eb4-602b-459e-8efe-b5d65bdc9b1e)
+![image](https://github.com/user-attachments/assets/0484cc66-1c35-46f8-8a93-4f39ee85b940)
+![image](https://github.com/user-attachments/assets/861797ae-9c36-4dd5-9fd4-8b45a32f4db2)
+![image](https://github.com/user-attachments/assets/494bbc6c-3514-4a6c-a212-ccae4ad533cd)
