@@ -90,10 +90,15 @@ Before setting up the Hospital Management System, ensure the following software 
 
 ---
 ## Snapshots
-![image](https://github.com/user-attachments/assets/beaa4baa-4f27-4240-bab1-3ff9ba0b349c)
-![image](https://github.com/user-attachments/assets/4ce23817-5309-4bcd-8b7a-348ac99fd274)
-![image](https://github.com/user-attachments/assets/803e9b4d-7ee7-4b3b-96b6-73eaa94c7ea5)
-![image](https://github.com/user-attachments/assets/82ec1eb4-602b-459e-8efe-b5d65bdc9b1e)
-![image](https://github.com/user-attachments/assets/0484cc66-1c35-46f8-8a93-4f39ee85b940)
-![image](https://github.com/user-attachments/assets/861797ae-9c36-4dd5-9fd4-8b45a32f4db2)
-![image](https://github.com/user-attachments/assets/494bbc6c-3514-4a6c-a212-ccae4ad533cd)
+![A - Copy (4)](https://github.com/user-attachments/assets/2a59c7d7-6231-49b8-9586-c7dbf1fbf6a6)
+![B](https://github.com/user-attachments/assets/bbb57736-d2db-47b1-bdbf-4586f091eb1d)
+![C](https://github.com/user-attachments/assets/8080f507-2cbe-4f56-b86c-bac74edff1cf)
+![D](https://github.com/user-attachments/assets/e9541695-3688-4b1b-b336-011f586775be)
+![E](https://github.com/user-attachments/assets/7cb5b3b3-2ca4-4ef2-afa7-01698bc3f16c)
+![F](https://github.com/user-attachments/assets/bd0ad101-34fd-4852-af1e-119d4359ef7f)
+![G](https://github.com/user-attachments/assets/4c896c37-cac1-4dc0-b5cd-76b8f20b7e0a)
+
+
+## My Contributions
+As a full stack developer with a deep expertise in Java, I played a key role in developing the Hospital Management System (HMS). I focused on building and refining the back-end functionalities using Spring MVC and JDBC, which were crucial for managing patient and staff records digitally and streamlining prescription processes. My work ensured that the system was robust and user-friendly. Meanwhile, the front-end design, which involved HTML, CSS, Bootstrap, and JavaScript, and the project management aspects using Maven, were expertly handled by my team members, allowing us to deliver a cohesive and efficient application.
+
