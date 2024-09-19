@@ -12,27 +12,27 @@ This Hospital Management System (HMS) project address the traditional challenges
 - Efficient data storage and retrieval with minimal time wastage.
 - Easy prescription management, reducing manual writing and signing by doctors.
 
-## Tech Stack
+### Tech Stack
 
-**Front End Technologies:**
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+#### Front End Technologies
+![HTML](https://img.shields.io/badge/HTML-Standard%20Markup%20Language-red)  
+![CSS](https://img.shields.io/badge/CSS-Style%20Sheet%20Language-blue)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-CSS%20Framework-purple)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming%20Language-yellowgreen)  
 
-**Back End Technologies:**
-- Spring MVC
-- JDBC
-- Servlets
+#### Back End Technologies
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-Framework%20for%20Java-green)  
+![JDBC](https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-blue)  
+![Servlets](https://img.shields.io/badge/Servlets-Java%20Web%20Technologies-orange)  
 
-**Database:**
-- MySQL
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database%20Management%20System-orange)  
 
-**Project Management Tool:**
-- Maven
+#### Project Management Tool
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool%20for%20Java-orange)  
 
-**Web Server:**
-- Apache Tomcat
+#### Web Server
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-Web%20Server-lightblue) 
 
 ## Getting Started
 
