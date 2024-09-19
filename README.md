@@ -5,13 +5,6 @@
 This Hospital Management System (HMS) project address the traditional challenges faced in hospital management by transitioning from a paper-based to a digital solution. The existing manual systems often led to issues such as inefficient data management, time wastage in data storage and retrieval, and difficulties in understanding prescriptions. This project aims to streamline hospital operations by providing a comprehensive web-based application that enhances data accuracy, improves accessibility, and facilitates better management of patient records.
 ![image](https://github.com/user-attachments/assets/18a9ece3-5a88-4e20-af63-dddcc6b646da)
 
-
-**Key Features:**
-- Digital management of patient and hospital staff records.
-- Separate user accounts for doctors and administrators.
-- Efficient data storage and retrieval with minimal time wastage.
-- Easy prescription management, reducing manual writing and signing by doctors.
-
 ### Tech Stack
 
 #### Front End Technologies
@@ -34,6 +27,12 @@ This Hospital Management System (HMS) project address the traditional challenges
 #### Web Server
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-Web%20Server-lightblue) 
 
+**Key Features:**
+- Digital management of patient and hospital staff records.
+- Separate user accounts for doctors and administrators.
+- Efficient data storage and retrieval with minimal time wastage.
+- Easy prescription management, reducing manual writing and signing by doctors.
+  
 ## Getting Started
 
 ### Prerequisites
