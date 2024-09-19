@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I have designed the Hospital Management System (HMS) project to address the traditional challenges faced in hospital management by transitioning from a paper-based to a digital solution. The existing manual systems often led to issues such as inefficient data management, time wastage in data storage and retrieval, and difficulties in understanding prescriptions. This project aims to streamline hospital operations by providing a comprehensive web-based application that enhances data accuracy, improves accessibility, and facilitates better management of patient records.
+This Hospital Management System (HMS) project address the traditional challenges faced in hospital management by transitioning from a paper-based to a digital solution. The existing manual systems often led to issues such as inefficient data management, time wastage in data storage and retrieval, and difficulties in understanding prescriptions. This project aims to streamline hospital operations by providing a comprehensive web-based application that enhances data accuracy, improves accessibility, and facilitates better management of patient records.
 ![image](https://github.com/user-attachments/assets/18a9ece3-5a88-4e20-af63-dddcc6b646da)
 
 
